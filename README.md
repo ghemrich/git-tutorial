@@ -47,3 +47,5 @@ pull request
 `git merge`
 
 ssh login
+
+protect master branch
