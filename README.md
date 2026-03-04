@@ -30,10 +30,17 @@
 
 # GitHub first steps
 
-- registration
-- new repo
-- pull request
+registration
+
+new repo
+
+pull request
 
 # Other stuff
 
 `.gitignore`
+
+# Advenced
+`git merge`
+
+ssh login
