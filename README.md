@@ -40,7 +40,7 @@ pull request
 
 `.gitignore`
 
-# Advenced
+# Advanced
 `git merge`
 
 ssh login
@@ -48,3 +48,5 @@ ssh login
 protect master branch
 
 GitHub organizations & teams
+
+GitHub issues
