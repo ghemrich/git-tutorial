@@ -1,6 +1,3 @@
-# VSCode
-setup
-
 # Getting started
 
 `git --version`
