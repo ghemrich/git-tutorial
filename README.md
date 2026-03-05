@@ -39,6 +39,7 @@ pull request
 # Other stuff
 
 `.gitignore`
+`.README`
 
 # Advanced
 `git merge`
@@ -50,3 +51,5 @@ protect master branch
 GitHub organizations & teams
 
 GitHub issues
+
+GitHub pages
