@@ -12,6 +12,10 @@
 
 `git commit`
 
+# VSCode
+
+use the UI
+
 # Working with remote repos
 
 `git clone`
